@@ -1,5 +1,6 @@
 # Canvas
 
-**Theme Summary**
+### Component settings
 
-For more information, please see: **url to meta topic**
+- **Category Banners**: plugin outlet -> above-main-container
+- **Tag Banners**: plugin outlet -> above-main-container
