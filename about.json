@@ -34,8 +34,7 @@
     }
   },
   "components": [
-    "https://gitlab.com/manuelkostka/discourse/canvas/properties.git",
-    "https://gitlab.com/manuelkostka/discourse/canvas/styles.git",
+    "https://gitlab.com/manuelkostka/discourse/canvas/foundation.git",
     "https://gitlab.com/manuelkostka/discourse/canvas/panels.git",
     "https://gitlab.com/manuelkostka/discourse/canvas/banners.git",
     "https://github.com/discourse/discourse-category-banners.git",

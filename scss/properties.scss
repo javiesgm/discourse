@@ -1,2 +1,58 @@
+/* Custom properties and their default values */
 :root {
+  /* Layout */
+  // --theme-nav-space: 0.75rem;
+  // --theme-content-padding: 1.5rem;
+  // --theme-topic-list-padding: 0.8em;
+  // --d-max-width: 1110px;
+
+  /* Base Styles */
+  // --theme-background: var(--secondary);
+  // --theme-border: 1px solid var(--primary-500);
+  // --theme-border-light: 1px solid var(--primary-200);
+
+  /* Border Radius */
+  // --d-border-radius: 2px;
+  // --d-border-radius-large: 2px;
+  // --d-button-border-radius: 2px;
+  // --d-input-border-radius: var(--d-button-border-radius);
+  // --d-nav-pill-border-radius: var(--d-button-border-radius);
+
+  /* Button Styles */
+  // --theme-button-padding: 0.5em 0.65em;
+  // --theme-button-pop-padding: 0.5em 0.65em;
+
+  /* Header */
+  // --theme-header-height: 4rem;
+  // --theme-header-border: none;
+  // --theme-header-position: sticky;
+  // --theme-header-background: var(--header_background);
+  // --shadow-header: 0 0 0 1px var(--primary-low);
+
+  /* Sidebar */
+  // --theme-sidebar-border: 1px solid var(--primary-low);
+  // --theme-sidebar-scrollbar: var(--scrollbarWidth);
+  // --d-sidebar-width: 17em;
+  // --d-sidebar-background: var(--secondary);
+  // --d-sidebar-row-height: 2.2em;
+  // --d-sidebar-highlight-background: var(--primary-low);
+
+  /* Panels */
+  // --theme-panel-padding: 1rem 2rem;
+  // --theme-panel-radius: var(--d-border-radius-large);
+  // --theme-panel-border: none;
+  // --theme-panel-shadow: var(--shadow-card);
+  // --theme-panel-background: var(--secondary);
+
+  /* Banners */
+  // --theme-banner-background: var(--secondary);
+  // --theme-banner-color: var(--primary);
+  // --theme-banner-padding: 1rem 2rem 1.5rem;
+  // --theme-banner-radius: var(--d-border-radius-large);
+  // --theme-banner-border: none;
+  // --theme-banner-shadow: var(--shadow-card);
+
+  /* Header Search */
+  // --theme-header-search-border: 1px solid var(--primary-400);
+  // --theme-header-search-padding: 0.5em;
 }
