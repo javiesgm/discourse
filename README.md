@@ -11,7 +11,7 @@ The theme installs a set of theme components by default. The following settings 
 
 The theme uses CSS custom properties (variables) for consistent styling across the application.
 
-### Theme-specific
+### Canvas
 
 Custom properties added by the theme.
 
