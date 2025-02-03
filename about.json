@@ -1,5 +1,5 @@
 {
-  "name": "Canvas",
+  "name": "Canvas Base",
   "authors": "Manuel Kostka",
   "about_url": "",
   "license_url": "",
@@ -34,9 +34,8 @@
     }
   },
   "components": [
-    "https://gitlab.com/manuelkostka/discourse/canvas/foundation.git",
-    "https://gitlab.com/manuelkostka/discourse/canvas/panels.git",
-    "https://gitlab.com/manuelkostka/discourse/canvas/banners.git",
+    "https://gitlab.com/manuelkostka/discourse/canvas/component.git",
+    "https://gitlab.com/manuelkostka/discourse/components/extra-banners.git",
     "https://github.com/discourse/discourse-category-banners.git",
     "https://github.com/discourse/discourse-tag-banners.git",
     "https://github.com/discourse/discourse-color-scheme-toggle.git"
