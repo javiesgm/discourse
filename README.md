@@ -1,19 +1,19 @@
-# Canvas Base Theme
+# Canvas Theme Template
 
 ## Component settings
 
-The theme installs a set of theme components by default. The following settings need to be adjusted manually.
+The template installs various theme components by default. The settings of the following components need to be adjusted manually.
 
 - **Category Banners**: plugin outlet -> above-main-container
 - **Tag Banners**: plugin outlet -> above-main-container
 
 ## Custom properties
 
-The theme uses CSS custom properties (variables) for consistent styling across the application.
+The template uses CSS custom properties (variables) for consistent styling across the theme.
 
 ### Canvas
 
-Custom properties added by the theme.
+Additional custom properties added for the template.
 
 | Property Name                     | Description                                   | Undeclared Value               |
 | --------------------------------- | --------------------------------------------- | ------------------------------ |
@@ -56,7 +56,7 @@ Custom properties added by the theme.
 
 ### Discourse Core
 
-You can override any custom properties from Discourse core. Below is a small selection of common properties.
+You can also override any custom properties from Discourse core. Below is a small selection of common properties.
 
 | Property Name                      | Description                                    | Default Value                   |
 | ---------------------------------- | ---------------------------------------------- | ------------------------------- |
