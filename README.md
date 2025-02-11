@@ -1,3 +1,3 @@
-# Canvas Editor Screen
+# Canvas Screen Theme
 
-A simple modern screen theme, based on the [Canvas Theme Template](https://gitlab.com/manuelkostka/discourse/canvas/theme).
+A simple modern theme, based on the [Canvas Theme Template](https://gitlab.com/manuelkostka/discourse/canvas/theme).
