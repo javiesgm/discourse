@@ -1,1 +1,18 @@
-//
+body div[class^="category-title-header"] {
+  background-image: url($banner-bg-category);
+}
+body .tag-title-header {
+  background-image: url($banner-bg-tag);
+}
+body .extra-banner {
+  background-image: url($banner-bg-extra);
+  color: var(--secondary);
+}
+
+// Hide more topics as we render with topic cards
+.more-topics__container {
+  display: none;
+}
+.topic-card:hover {
+  border: none; //FIX: componnent sets border effect
+}
